@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.first-sec {
+    background-image: url("landing.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+   
+   
+
+  
+    
+}
+
+
+.logo-area{
+    height: 140px;
+    width: 700px;
+    background-color: white;
+    border-radius: 0 0px 30px 40px;
+    clip-path: polygon(0 100%, 0% 0%, 100% 0%, 70% 100%);
+     ;
+   
+}
+
+.card1{
+    margin-left: 90px;
+
+}
+.card2{
+    margin-left: 0px;
+    margin-top: 70px;
+}
+.card3{
+    margin-left: 0px;
+    margin-top: 140px;
+}
+.card4{
+    margin-left: 390px;
+}
+.image-contain1{
+    position: relative;
+}
+.overlap1{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   
+}
+.overlap2{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   margin-top: 84px;
+   width: 600px;height: 430px;
+   background-color:#2400A7;
+   
+}
+.whitee{
+    width: 100%;
+    height: 330px;
+    
+    
+}
+.whitee2{
+    width: 100%;
+    height: 230px;
+    background-color: white;
+    
+}
+.butt{
+   margin-left: 600px;
+}
+.cardba{
+    margin-left: 170px;
+}
+.curicullum{
+    width: 100%;
+    height: 500px;
+    
+}
+.overlap3{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   margin-left: 700px;
+   margin-top:150px;
+   
+}
+.gogreen{
+    margin-top: 100px;
+}
+.overlap311{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   margin-left: 60px;
+   margin-top:250px;
+   
+}
+.overlap312{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   margin-top:480px;
+   
+}
+.overlap314{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   margin-top:810px;
+   
+}
+.overlap315{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   margin-top:900px;
+   
+}
+.box2{
+    position: absolute;
+    top: 0;left: 0;
+   z-index: 2;
+   margin-top:1000px;margin-left: 200px;
+   background-color: rgb(255, 255, 255);width: 950px;height: 700px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;;
+}
+.cirularimage{
+   width: 150px;height: 150px  ;
+}
+
+.mareleft{
+    margin-left: 200px;
+}
+.footer1{
+    background-color: #22305C;
+    width: 100%;height: 350px;
+    margin-top: 600px;
+}
